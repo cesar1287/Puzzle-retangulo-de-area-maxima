@@ -1,0 +1,1 @@
+Dentre os retângulos inscritos em um triângulo equilátero, Qual aquele que possui área máxima?
